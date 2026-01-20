@@ -53,3 +53,8 @@
 [11:13:32] [Server thread/INFO]: prasetyo was kicked due to keepalive timeout!
 [11:13:32] [Server thread/INFO]: prasetyo lost connection: Timed out
 [11:13:32] [Server thread/INFO]: prasetyo left the game
+[11:18:18] [User Authenticator #1/INFO]: UUID of player prasetyo is 8cb770c8-19ce-487a-b9dc-1cfafdbe6fdb
+[11:18:19] [Server thread/INFO]: prasetyo joined the game
+[11:18:19] [Server thread/INFO]: prasetyo[/127.119.185.32:42219] logged in with entity id 1076 at ([world]13.336678143093081, 68.0, -30.269380968017508)
+[11:21:54] [Server thread/INFO]: prasetyo lost connection: Disconnected
+[11:21:54] [Server thread/INFO]: prasetyo left the game

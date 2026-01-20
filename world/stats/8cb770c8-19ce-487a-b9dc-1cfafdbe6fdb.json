@@ -1,25 +1,26 @@
 {
   "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 7623,
+      "minecraft:walk_one_cm": 14871,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 20,
+      "minecraft:damage_dealt": 10,
+      "minecraft:play_time": 7623,
+      "minecraft:jump": 110,
+      "minecraft:time_since_death": 7623,
+      "minecraft:sprint_one_cm": 34899,
+      "minecraft:fall_one_cm": 750,
+      "minecraft:total_world_time": 7623,
+      "minecraft:fly_one_cm": 41242,
+      "minecraft:crouch_one_cm": 971,
+      "minecraft:sneak_time": 177
+    },
     "minecraft:picked_up": {
       "minecraft:leaf_litter": 3,
       "minecraft:dirt": 1,
-      "minecraft:oak_log": 1
-    },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 3324,
-      "minecraft:walk_one_cm": 4940,
-      "minecraft:leave_game": 1,
-      "minecraft:damage_taken": 20,
-      "minecraft:damage_dealt": 10,
-      "minecraft:play_time": 3324,
-      "minecraft:jump": 34,
-      "minecraft:time_since_death": 3324,
-      "minecraft:sprint_one_cm": 7288,
-      "minecraft:fall_one_cm": 750,
-      "minecraft:total_world_time": 3324,
-      "minecraft:fly_one_cm": 13359,
-      "minecraft:crouch_one_cm": 822,
-      "minecraft:sneak_time": 156
+      "minecraft:oak_log": 1,
+      "minecraft:wheat_seeds": 1
     },
     "minecraft:mined": {
       "minecraft:short_grass": 2,
